@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarzouaoui1&label=Profile%20views&color=0e75b6&style=flat" alt="omarzouaoui1" /> </p>
 
-- 🔭 I’m currently working on **a lot of Projects**
 
 - 🌱 I’m currently learning **React Native**
 
