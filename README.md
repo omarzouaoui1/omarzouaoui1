@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarzouaoui1&show_icons=true&locale=en" alt="omarzouaoui1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarzouaoui1&" alt="omarzouaoui1" /></p>![image](https://github.com/omarzouaoui1/omarzouaoui1/assets/134692582/31566353-c8a7-4140-9eaa-f6c806d74659)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarzouaoui1&" alt="omarzouaoui1" /></p>
